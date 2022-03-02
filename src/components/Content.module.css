@@ -1,0 +1,32 @@
+.bottom_content{
+    background-color: white;
+    margin:auto;
+    margin-bottom: 2%;
+    padding-top: 2% ;
+    padding-bottom: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    max-width: 100%;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.bottom_button{
+    position: relative;
+    float: right;
+    width: 30%;
+    padding: 0;
+    display: inline-block;
+}
+
+.first {
+    width: 40%;
+    background-color: #03033f;
+    color: white;
+    margin: 0 2%;
+}
+.second {
+    width: 40%;
+    background-color: rgb(150, 1, 1);
+    color: white;
+    margin: 0 2%;
+}
